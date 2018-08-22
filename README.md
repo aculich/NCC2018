@@ -6,6 +6,8 @@ The materials in this repository allow users to reproduce the figures appearing 
 
 If you find meaningful errors in the code or have questions or suggestions, please contact Marshall Burke at mburke@stanford.edu.
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aculich/NCC2018/master)
+
 ## Organization of repository
 
 * **inputs**: all inputs for analysis.
